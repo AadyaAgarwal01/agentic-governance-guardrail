@@ -293,7 +293,7 @@ flowchart LR
 ### Default Model
 
 ```env
-GEMINI_MODEL=gemini-2.0-flash
+GEMINI_MODEL=gemini-3.5-flash-lite
 ```
 
 The model can be overridden through environment configuration.
@@ -450,7 +450,7 @@ GEMINI_API_KEY=
 GOOGLE_API_KEY=
 
 # Gemini model
-GEMINI_MODEL=gemini-2.0-flash
+GEMINI_MODEL=gemini-3.5-flash-lite
 
 # Generation temperature
 GEMINI_TEMPERATURE=0.2
